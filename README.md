@@ -1,4 +1,4 @@
-# IoT-Widget-BS
+# IoT Widget (Big Sur design)
 Rainmeter skin for IoT, with macOS Big Sur Widget design
 
 WorkInProgress 👷🏼‍♂️
